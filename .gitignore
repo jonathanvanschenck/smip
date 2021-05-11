@@ -4,3 +4,5 @@ dist
 venv
 test.py
 index.html
+test.md
+_*

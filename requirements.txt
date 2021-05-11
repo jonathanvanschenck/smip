@@ -1,5 +1,5 @@
 beautifulsoup4==4.9.3
-biblescrapeway==0.1.2
+biblescrapeway==0.1.4
 certifi==2020.12.5
 chardet==4.0.0
 click==7.1.2
@@ -11,7 +11,6 @@ Jinja2==2.11.3
 Markdown==3.3.4
 MarkupSafe==1.1.1
 requests==2.25.1
--e git+git@github.com:jonathanvanschenck/smip@7351909ec80362fb151b98193b4a99d8d8d66e59#egg=smip
 soupsieve==2.2.1
 typing-extensions==3.7.4.3
 urllib3==1.26.4
